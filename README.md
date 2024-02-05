@@ -1,6 +1,8 @@
 # Processing Rubik's Cube
 A simple graphical Rubik's Cube toy written in Processing.
 
+If you're a mathematician or set theory enthusiast... I'm so sorry.
+
 ## Controls
 The whole cube can be clicked and dragged with the mouse to change the view. However changing the view does not change the orientation of the cube with respect to the keyboard controls - i.e. the green face is always mapped to "Front" and the yellow face is always mapped to "Upper".
 
